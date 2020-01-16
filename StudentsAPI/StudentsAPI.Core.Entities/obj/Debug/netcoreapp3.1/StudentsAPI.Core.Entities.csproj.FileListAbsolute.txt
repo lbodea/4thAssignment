@@ -1,0 +1,8 @@
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI\StudentsAPI.Core.Entities\bin\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.deps.json
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI\StudentsAPI.Core.Entities\bin\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI\StudentsAPI.Core.Entities\bin\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.pdb
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI\StudentsAPI.Core.Entities\obj\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.csprojAssemblyReference.cache
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI\StudentsAPI.Core.Entities\obj\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.AssemblyInfoInputs.cache
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI\StudentsAPI.Core.Entities\obj\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.AssemblyInfo.cs
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI\StudentsAPI.Core.Entities\obj\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI\StudentsAPI.Core.Entities\obj\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.pdb
