@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using StudentsAPI.Core.Entities;
 
 namespace StudentsAPI
 {
@@ -10,6 +11,8 @@ namespace StudentsAPI
             CreateMap<V2.Models.Student, V1.Models.Student>();
             CreateMap<V1.Models.Filter, V2.Models.Filter>();
             CreateMap<V2.Models.Filter, V1.Models.Filter>();
+            CreateMap<V2.Models.Student, StudentStatistics>();
+            CreateMap<StudentStatistics, V2.Models.Student>();
         }
     }
 }
