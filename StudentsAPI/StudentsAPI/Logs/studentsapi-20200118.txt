@@ -1,0 +1,3 @@
+2020-01-18T21:59:25.1839369+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-01-18T21:59:25.1989372+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-01-18T21:59:25.2014372+02:00  [INF] Content root path: "G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\StudentsAPI\StudentsAPI" (b5d60022)

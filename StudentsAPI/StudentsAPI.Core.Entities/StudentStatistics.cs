@@ -6,8 +6,8 @@ namespace StudentsAPI.Core.Entities
     public class StudentStatistics : Student
     {
         [JsonPropertyName("numberOfCommits")]
-        public int NumberOfCommits { get; set; }
+        public int? NumberOfCommits { get; set; }
         [JsonPropertyName("numberOfModifiedLines")]
-        public int NumberOfModifiedLines { get; set; }
+        public long? NumberOfModifiedLines { get; set; }
     }
 }

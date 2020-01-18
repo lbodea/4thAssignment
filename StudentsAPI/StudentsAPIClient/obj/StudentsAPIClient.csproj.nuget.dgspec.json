@@ -1,32 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.NET Core learning\\StudentsApi Tema 4\\StudentsAPI\\StudentsAPIClient\\StudentsAPIClient.csproj": {}
+    "G:\\C#\\.Net Core\\StudentsApi - Fourth Assignment\\4thAssignment\\StudentsAPI\\StudentsAPIClient\\StudentsAPIClient.csproj": {}
   },
   "projects": {
-    "D:\\.NET Core learning\\StudentsApi Tema 4\\StudentsAPI\\StudentsAPI.Core.Entities\\StudentsAPI.Core.Entities.csproj": {
+    "G:\\C#\\.Net Core\\StudentsApi - Fourth Assignment\\4thAssignment\\StudentsAPI\\StudentsAPI.Core.Entities\\StudentsAPI.Core.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.NET Core learning\\StudentsApi Tema 4\\StudentsAPI\\StudentsAPI.Core.Entities\\StudentsAPI.Core.Entities.csproj",
+        "projectUniqueName": "G:\\C#\\.Net Core\\StudentsApi - Fourth Assignment\\4thAssignment\\StudentsAPI\\StudentsAPI.Core.Entities\\StudentsAPI.Core.Entities.csproj",
         "projectName": "StudentsAPI.Core.Entities",
-        "projectPath": "D:\\.NET Core learning\\StudentsApi Tema 4\\StudentsAPI\\StudentsAPI.Core.Entities\\StudentsAPI.Core.Entities.csproj",
-        "packagesPath": "C:\\Users\\laura.stoker\\.nuget\\packages\\",
-        "outputPath": "D:\\.NET Core learning\\StudentsApi Tema 4\\StudentsAPI\\StudentsAPI.Core.Entities\\obj\\",
+        "projectPath": "G:\\C#\\.Net Core\\StudentsApi - Fourth Assignment\\4thAssignment\\StudentsAPI\\StudentsAPI.Core.Entities\\StudentsAPI.Core.Entities.csproj",
+        "packagesPath": "G:\\Users\\Lau\\.nuget\\packages\\",
+        "outputPath": "G:\\C#\\.Net Core\\StudentsApi - Fourth Assignment\\4thAssignment\\StudentsAPI\\StudentsAPI.Core.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "G:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\laura.stoker\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "G:\\Users\\Lau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "G:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "G:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "G:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -57,40 +56,39 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "G:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\.NET Core learning\\StudentsApi Tema 4\\StudentsAPI\\StudentsAPIClient\\StudentsAPIClient.csproj": {
+    "G:\\C#\\.Net Core\\StudentsApi - Fourth Assignment\\4thAssignment\\StudentsAPI\\StudentsAPIClient\\StudentsAPIClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.NET Core learning\\StudentsApi Tema 4\\StudentsAPI\\StudentsAPIClient\\StudentsAPIClient.csproj",
+        "projectUniqueName": "G:\\C#\\.Net Core\\StudentsApi - Fourth Assignment\\4thAssignment\\StudentsAPI\\StudentsAPIClient\\StudentsAPIClient.csproj",
         "projectName": "StudentsAPIClient",
-        "projectPath": "D:\\.NET Core learning\\StudentsApi Tema 4\\StudentsAPI\\StudentsAPIClient\\StudentsAPIClient.csproj",
-        "packagesPath": "C:\\Users\\laura.stoker\\.nuget\\packages\\",
-        "outputPath": "D:\\.NET Core learning\\StudentsApi Tema 4\\StudentsAPI\\StudentsAPIClient\\obj\\",
+        "projectPath": "G:\\C#\\.Net Core\\StudentsApi - Fourth Assignment\\4thAssignment\\StudentsAPI\\StudentsAPIClient\\StudentsAPIClient.csproj",
+        "packagesPath": "G:\\Users\\Lau\\.nuget\\packages\\",
+        "outputPath": "G:\\C#\\.Net Core\\StudentsApi - Fourth Assignment\\4thAssignment\\StudentsAPI\\StudentsAPIClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "G:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\laura.stoker\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "G:\\Users\\Lau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "G:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "G:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "G:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\.NET Core learning\\StudentsApi Tema 4\\StudentsAPI\\StudentsAPI.Core.Entities\\StudentsAPI.Core.Entities.csproj": {
-                "projectPath": "D:\\.NET Core learning\\StudentsApi Tema 4\\StudentsAPI\\StudentsAPI.Core.Entities\\StudentsAPI.Core.Entities.csproj"
+              "G:\\C#\\.Net Core\\StudentsApi - Fourth Assignment\\4thAssignment\\StudentsAPI\\StudentsAPI.Core.Entities\\StudentsAPI.Core.Entities.csproj": {
+                "projectPath": "G:\\C#\\.Net Core\\StudentsApi - Fourth Assignment\\4thAssignment\\StudentsAPI\\StudentsAPI.Core.Entities\\StudentsAPI.Core.Entities.csproj"
               }
             }
           }
@@ -104,6 +102,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
             "Microsoft.AspNetCore.Mvc.Versioning": {
               "target": "Package",
               "version": "[4.1.1, )"
@@ -135,7 +137,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "G:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

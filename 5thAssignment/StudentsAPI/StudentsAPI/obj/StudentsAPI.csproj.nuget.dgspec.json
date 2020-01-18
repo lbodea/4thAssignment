@@ -1,0 +1,153 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\C#\\.Net Core\\StudentsApi - Fourth Assignment\\5thAssignment\\StudentsAPI\\StudentsAPI\\StudentsAPI.csproj": {}
+  },
+  "projects": {
+    "G:\\C#\\.Net Core\\StudentsApi - Fourth Assignment\\5thAssignment\\StudentsAPI\\StudentsAPI.Core.Entities\\StudentsAPI.Core.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\C#\\.Net Core\\StudentsApi - Fourth Assignment\\5thAssignment\\StudentsAPI\\StudentsAPI.Core.Entities\\StudentsAPI.Core.Entities.csproj",
+        "projectName": "StudentsAPI.Core.Entities",
+        "projectPath": "G:\\C#\\.Net Core\\StudentsApi - Fourth Assignment\\5thAssignment\\StudentsAPI\\StudentsAPI.Core.Entities\\StudentsAPI.Core.Entities.csproj",
+        "packagesPath": "G:\\Users\\Lau\\.nuget\\packages\\",
+        "outputPath": "G:\\C#\\.Net Core\\StudentsApi - Fourth Assignment\\5thAssignment\\StudentsAPI\\StudentsAPI.Core.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "G:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "G:\\Users\\Lau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "G:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "G:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "G:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "G:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\C#\\.Net Core\\StudentsApi - Fourth Assignment\\5thAssignment\\StudentsAPI\\StudentsAPI\\StudentsAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\C#\\.Net Core\\StudentsApi - Fourth Assignment\\5thAssignment\\StudentsAPI\\StudentsAPI\\StudentsAPI.csproj",
+        "projectName": "StudentsAPI",
+        "projectPath": "G:\\C#\\.Net Core\\StudentsApi - Fourth Assignment\\5thAssignment\\StudentsAPI\\StudentsAPI\\StudentsAPI.csproj",
+        "packagesPath": "G:\\Users\\Lau\\.nuget\\packages\\",
+        "outputPath": "G:\\C#\\.Net Core\\StudentsApi - Fourth Assignment\\5thAssignment\\StudentsAPI\\StudentsAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "G:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "G:\\Users\\Lau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "G:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "G:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "G:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "G:\\C#\\.Net Core\\StudentsApi - Fourth Assignment\\5thAssignment\\StudentsAPI\\StudentsAPI.Core.Entities\\StudentsAPI.Core.Entities.csproj": {
+                "projectPath": "G:\\C#\\.Net Core\\StudentsApi - Fourth Assignment\\5thAssignment\\StudentsAPI\\StudentsAPI.Core.Entities\\StudentsAPI.Core.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[4.1.1, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Serilog.Extensions.Logging.File": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "G:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -19,6 +19,8 @@ namespace StudentsAPIClient
         {
             services.AddControllers();
             services.AddHttpClient<StudentsAPIService>();
+            services.AddHttpClient<CodeCommitsAPIService>();
+            services.AddHttpClient<StudentsStatisticsAPIService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
