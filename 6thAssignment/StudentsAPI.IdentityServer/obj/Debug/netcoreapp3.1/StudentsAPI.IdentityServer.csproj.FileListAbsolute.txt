@@ -1,0 +1,241 @@
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\appsettings.json
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\StudentsAPI.IdentityServer.exe
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\StudentsAPI.IdentityServer.deps.json
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\StudentsAPI.IdentityServer.runtimeconfig.json
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\StudentsAPI.IdentityServer.runtimeconfig.dev.json
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\StudentsAPI.IdentityServer.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\StudentsAPI.IdentityServer.pdb
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\IdentityModel.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.pdb
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\obj\Debug\netcoreapp3.1\StudentsAPI.IdentityServer.csprojAssemblyReference.cache
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\obj\Debug\netcoreapp3.1\staticwebassets\StudentsAPI.IdentityServer.StaticWebAssets.Manifest.cache
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\obj\Debug\netcoreapp3.1\staticwebassets\StudentsAPI.IdentityServer.StaticWebAssets.xml
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\obj\Debug\netcoreapp3.1\StudentsAPI.IdentityServer.MvcApplicationPartsAssemblyInfo.cache
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\obj\Debug\netcoreapp3.1\StudentsAPI.IdentityServer.AssemblyInfoInputs.cache
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\obj\Debug\netcoreapp3.1\StudentsAPI.IdentityServer.AssemblyInfo.cs
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\obj\Debug\netcoreapp3.1\StudentsAPI.IdentityServer.RazorTargetAssemblyInfo.cache
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\obj\Debug\netcoreapp3.1\StudentsAPI.IdentityServer.csproj.CopyComplete
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\obj\Debug\netcoreapp3.1\StudentsAPI.IdentityServer.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\obj\Debug\netcoreapp3.1\StudentsAPI.IdentityServer.pdb
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\StudentsAPIClient.exe
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\StudentsAPIClient.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\StudentsAPIClient.pdb
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.IdentityServer\obj\Debug\netcoreapp3.1\StudentsAPI.IdentityServer.MvcApplicationPartsAssemblyInfo.cs
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\appsettings.json
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\StudentsAPIClient.exe
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\StudentsAPI.IdentityServer.exe
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\StudentsAPI.IdentityServer.deps.json
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\StudentsAPI.IdentityServer.runtimeconfig.json
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\StudentsAPI.IdentityServer.runtimeconfig.dev.json
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\StudentsAPI.IdentityServer.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\StudentsAPI.IdentityServer.pdb
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\IdentityModel.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Serilog.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\StudentsAPIClient.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.pdb
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\StudentsAPIClient.pdb
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\obj\Debug\netcoreapp3.1\StudentsAPI.IdentityServer.csprojAssemblyReference.cache
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\obj\Debug\netcoreapp3.1\staticwebassets\StudentsAPI.IdentityServer.StaticWebAssets.Manifest.cache
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\obj\Debug\netcoreapp3.1\staticwebassets\StudentsAPI.IdentityServer.StaticWebAssets.xml
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\obj\Debug\netcoreapp3.1\StudentsAPI.IdentityServer.AssemblyInfoInputs.cache
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\obj\Debug\netcoreapp3.1\StudentsAPI.IdentityServer.AssemblyInfo.cs
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\obj\Debug\netcoreapp3.1\StudentsAPI.IdentityServer.RazorTargetAssemblyInfo.cache
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\obj\Debug\netcoreapp3.1\StudentsAPI.IdentityServer.csproj.CopyComplete
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\obj\Debug\netcoreapp3.1\StudentsAPI.IdentityServer.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\obj\Debug\netcoreapp3.1\StudentsAPI.IdentityServer.pdb
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\obj\Debug\netcoreapp3.1\StudentsAPI.IdentityServer.MvcApplicationPartsAssemblyInfo.cs
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.IdentityServer\obj\Debug\netcoreapp3.1\StudentsAPI.IdentityServer.MvcApplicationPartsAssemblyInfo.cache

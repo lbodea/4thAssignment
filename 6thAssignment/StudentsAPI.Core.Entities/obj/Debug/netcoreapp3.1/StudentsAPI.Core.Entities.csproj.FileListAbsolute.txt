@@ -1,0 +1,16 @@
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.Core.Entities\bin\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.deps.json
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.Core.Entities\bin\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.Core.Entities\bin\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.pdb
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.Core.Entities\obj\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.csprojAssemblyReference.cache
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.Core.Entities\obj\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.AssemblyInfoInputs.cache
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.Core.Entities\obj\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.AssemblyInfo.cs
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.Core.Entities\obj\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.dll
+D:\.NET Core learning\StudentsApi Tema 4\StudentsAPI 6th assignment\StudentsAPI.Core.Entities\obj\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.pdb
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.Core.Entities\bin\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.deps.json
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.Core.Entities\bin\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.Core.Entities\bin\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.pdb
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.Core.Entities\obj\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.csprojAssemblyReference.cache
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.Core.Entities\obj\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.AssemblyInfoInputs.cache
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.Core.Entities\obj\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.AssemblyInfo.cs
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.Core.Entities\obj\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.dll
+G:\C#\.Net Core\StudentsApi - Fourth Assignment\4thAssignment\6thAssignment\StudentsAPI.Core.Entities\obj\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.pdb
